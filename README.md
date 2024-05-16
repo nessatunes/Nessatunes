@@ -1,5 +1,5 @@
-### Hi there, Eu sou Vanessa Antunes 👋
-<p> Ineiciei meus estudo em tecnologia em Dez/2023, sempre foi uma grande vontade mais só agora tive oportunidade de começar, observei que é muito mais do que eu imaginava. </p>
+## Hi there, Eu sou Vanessa Antunes 👋
+#### Ineiciei meus estudo em tecnologia em Dez/2023, sempre foi uma grande vontade mais só agora tive oportunidade de começar, observei que é muito mais do que eu imaginava.
 
 <br>
 
@@ -12,7 +12,8 @@
 
 <br> 
 
-<h3>💻 &nbsp;Inciciei estudos em:</h3>
+### 💻 &nbsp;Inciciei estudos em:
+<br> 
 
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -26,7 +27,9 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 
 <br>
-<h2>🚀 &nbsp; Sobre o meu perfil</h2>
+
+
+### 🚀&nbsp; Sobre o meu perfil
 
 ![Nessatunes's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nessatunes&show_icons=true&theme=github_dark_dimmed)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nessatunes&layout=compact&theme=github_dark_dimmed)

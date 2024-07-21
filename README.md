@@ -39,8 +39,8 @@
 
 ### 🚀&nbsp; Sobre o meu perfil
 
-![Nessatunes's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nessatunes&show_icons=true&theme=github_dark_dimmed)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nessatunes&layout=compact&theme=github_dark_dimmed)
+![Nessatunes's GitHub stats](https://github-readme-stats.vercel.app/api?username=nessatunes&show_icons=true&theme=github_dark_dimmed)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nessatunes&layout=compact&theme=github_dark_dimmed)
 
 
 

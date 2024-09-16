@@ -33,6 +33,8 @@
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=Git&logoColor=f05033)
 ![Github](https://img.shields.io/badge/-Github-333333?style=flat&logo=Github&logoColor=000000)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker&logoColor=2496ed)
+![Java](https://img.shields.io/badge/-JAVA-333333?style=flat&logo=Java&logoColor=ffffffJava)
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=SQl&logoColor=2496ed)
 
 <br>
 
